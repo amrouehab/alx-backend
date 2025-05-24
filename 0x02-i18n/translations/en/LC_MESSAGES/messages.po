@@ -1,0 +1,14 @@
+msgid "Welcome to ALX"
+msgstr "Welcome to ALX"
+
+msgid "Hello world!"
+msgstr "Hello world!"
+
+msgid "You are logged in as %(username)s."
+msgstr "You are logged in as %(username)s."
+
+msgid "You are not logged in."
+msgstr "You are not logged in."
+
+msgid "The current time is %(current_time)s."
+msgstr "The current time is %(current_time)s."
